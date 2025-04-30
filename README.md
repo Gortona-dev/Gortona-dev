@@ -50,7 +50,7 @@
 
 ## 📫 Contato
 
-- 📧 E-mail: gbgortona@gmail.com  
+- 📧 E-mail: ortonabusiness@gmail.com
 - 🔗 LinkedIn: [Gabriel Gardeazabal Ortona](https://www.linkedin.com/in/gabriel-gardeazabal-ortona-8332511ab)
 
 ---
