@@ -1,58 +1,58 @@
-# 👋 Olá! Eu sou o Gabriel Gardeazabal Ortona
+# 👋 Hello! I'm Gabriel Gardeazabal Ortona
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFSP – 3º semestre  
-🚀 Apaixonado por backend, dados e soluções que resolvem problemas reais  
-🔍 Atualmente focado em aprofundar conhecimentos em Python e React
-
----
-
-## 💼 Experiência Profissional
-
-**🔹 MMSouza – Assistente de Dados Júnior (08/2024 – 01/2025)**  
-- Análise e manipulação de dados com Python (Pandas)
-- Desenvolvimento de APIs e aplicações web com Flask 
-- Desenvolvimento de dashboards interativos com Power BI  
-- Criação de soluções web com HTML, CSS e JavaScript  
-- Suporte técnico à equipe e clientes  
-- Comunicação clara em ambientes digitais e presenciais
+🎓 Student of Systems Analysis and Development at IFSP – 3rd semester  
+🚀 Passionate about backend, data, and solutions that solve real problems  
+🔍 Currently focused on deepening knowledge in Python and React
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 💼 Professional Experience
 
-- **Linguagens**: Python, C#, SQL, JavaScript (básico), HTML, CSS, C (fundamentos)  
-- **Frameworks e Ferramentas**: Flask, Power BI, Windows Forms  
-- **Bancos de Dados**: SQL Server, Firebird, PostgreSQL  
+**🔹 MMSouza – Junior Data Assistant (08/2024 – 01/2025)**  
+- Data analysis and manipulation with Python (Pandas)  
+- Development of APIs and web applications using Flask  
+- Building interactive dashboards with Power BI  
+- Creating web solutions with HTML, CSS, and JavaScript  
+- Technical support for the team and clients  
+- Clear communication in digital and face-to-face environments
+
+---
+
+## 🧠 Technical Skills
+
+- **Languages**: Python, C#, SQL, JavaScript (basic), HTML, CSS, C (fundamentals)  
+- **Frameworks & Tools**: Flask, Power BI, Windows Forms  
+- **Databases**: SQL Server, Firebird, PostgreSQL  
 - **IDEs**: VS Code, Visual Studio, IBExpert, DBeaver, NetBeans
 
 ---
 
-## 🧩 O que estou aprendendo
+## 🧩 What I'm Currently Learning
 
-- Aprofundamento em backend com **Python** (boas práticas, automações, APIs)  
-- Desenvolvimento moderno de interfaces com **React**  
-- Versionamento com Git e organização de repositórios para portfólio técnico
-
----
-
-## ❤️ Projetos e Ações Voluntárias
-
-- Organização de campanhas de doação (livros, roupas, alimentos) para instituições como a AFETO em Vinhedo/SP, apoiando idosos e crianças com necessidades especiais.
+- Advanced backend development with **Python** (best practices, automation, APIs)  
+- Modern interface development with **React**  
+- Git version control and professional portfolio repository organization
 
 ---
 
-## 📌 Interesses Profissionais
+## ❤️ Projects & Volunteer Work
 
-🎯 Em busca de oportunidades como **estagiário** ou **freelancer** nas áreas de  
-**backend** e **análise de dados**. Aberto a novos projetos e desafios!
-
----
-
-## 📫 Contato
-
-- 📧 E-mail: ortonabusiness@gmail.com
-- 🔗 LinkedIn: [Gabriel Gardeazabal Ortona](https://www.linkedin.com/in/gabriel-gardeazabal-ortona-8332511ab)
+- Organized donation campaigns (books, clothes, food) for institutions like AFETO in Vinhedo/SP, supporting elderly people and children with special needs.
 
 ---
 
-> Obrigado por visitar meu perfil! 🤝💛
+## 📌 Career Interests
+
+🎯 Seeking opportunities as an **intern** or **freelancer** in  
+**backend development** and **data analysis**. Open to new projects and challenges!
+
+---
+
+## 📫 Contact
+
+- 📧 Email: ortonabusiness@gmail.com  
+- 🔗 [LinkedIn – Gabriel Gardeazabal Ortona](https://www.linkedin.com/in/gabriel-gardeazabal-ortona-8332511ab)
+
+---
+
+> Thanks for visiting my profile! 🤝💛
