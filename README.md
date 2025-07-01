@@ -18,9 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=Gortona-dev&style=for-the-badge" alt="Profile views" />
 </p>
 
----
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gortona-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
