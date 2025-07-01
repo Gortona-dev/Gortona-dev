@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AB2FF&center=true&vCenter=true&width=500&lines=Welcome!+👋;DDeveloper+Focused+on+Back-End+%26+Data+🔍;DataAnalitic+Enthusiast+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AB2FF&center=true&vCenter=true&width=500&lines=Welcome!+👋;Developer+driven+by+real+impact+💻;Evolving+Data+Analyst!" alt="Typing SVG" />
 </p>
 
 <h2 align="center">👋 Hello! I'm Gabriel Gardeazabal Ortona</h2>
