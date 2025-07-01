@@ -1,3 +1,13 @@
+## 📊 GitHub Stats
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gortona-dev&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gortona-dev&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gortona-dev&layout=compact&theme=tokyonight)
+
+---
+
 # 👋 Hello! I'm Gabriel Gardeazabal Ortona
 
 🎓 Student of Systems Analysis and Development at IFSP – 3rd semester  
@@ -52,16 +62,6 @@
 
 - 📧 Email: ortonabusiness@gmail.com  
 - 🔗 [LinkedIn – Gabriel Gardeazabal Ortona](https://www.linkedin.com/in/gabriel-gardeazabal-ortona-8332511ab)
-
----
-
-## 📊 GitHub Stats
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gortona-dev&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Gortona-dev&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gortona-dev&layout=compact&theme=tokyonight)
 
 ---
 
