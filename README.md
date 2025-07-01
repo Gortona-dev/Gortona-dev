@@ -73,11 +73,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-- 🔗 [E-Commerce Web App](https://github.com/Gortona-dev/ecommerce-flask-react) – Full-stack project using Flask & React  
-- 🔗 [CEP Finder](https://github.com/Gortona-dev/cep-api-react) – API and interface to locate Brazilian postal codes  
-- 🔗 [Stock Control System](https://github.com/Gortona-dev/estoque-csharp-sqlserver) – Desktop app using C# and SQL Server  
+- 🔗 [CEP Consultancy API](https://github.com/Gortona-dev/cep-consultancy-api) – A complete backend API to consult and validate Brazilian postal codes (CEPs), built with Flask and integrated with external services.
 
 ---
 
