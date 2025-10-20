@@ -64,13 +64,6 @@ Bancos de Dados: SQL Server, Firebird, PostgreSQL, MySQL, SQLite
 - 🔗 [CEP Consultancy API](https://github.com/Gortona-dev/cep-consultancy-api) – A complete backend API to consult and validate Brazilian postal codes (CEPs), built with Flask and integrated with external services.
 
 ---
-
-## ❤️ Volunteer Work
-
-- Organized donation campaigns (books, clothes, food) for institutions like **AFETO** in Vinhedo/SP, supporting elderly people and children with special needs.
-
----
-
 ## 📌 Career Interests
 
 🎯 Looking for opportunities as an **intern** or **freelancer** in  
