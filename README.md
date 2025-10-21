@@ -26,18 +26,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-**🔹 MMSouza – Junior Data Assistant (08/2024 – 01/2025)**  
-- Data analysis and manipulation with Python (Pandas)  
-- Development of APIs and web applications using Flask  
-- Building interactive dashboards with Power BI  
-- Creating web solutions with HTML, CSS, and JavaScript  
-- Technical support for the team and clients  
-- Clear communication in digital and face-to-face environments
-
----
-
 ## 🧠 Technical Skills
 
 ### 🛠️ Languages & Tools
@@ -58,17 +46,4 @@ Bancos de Dados: SQL Server, Firebird, PostgreSQL, MySQL, SQLite
 - Git/GitHub for version control and portfolio building
 
 ---
-
-## 🚀 Featured Project
-
-- 🔗 [CEP Consultancy API](https://github.com/Gortona-dev/cep-consultancy-api) – A complete backend API to consult and validate Brazilian postal codes (CEPs), built with Flask and integrated with external services.
-
----
-## 📌 Career Interests
-
-🎯 Looking for opportunities as an **intern** or **freelancer** in  
-**backend development** and **data analysis**. Open to new projects and challenges!
-
----
-
 > Thanks for visiting my profile! 🤝💛
