@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hello! I'm Gabriel Ortona</h2>
 
 <p align="center">
-  🎓 IFSP – ADS Student • 🔍 Focused on Python & React • 💼 Backend & Data Developer
+  🎓 IFSP – ADS Student • 💼 Backend & Data Developer
 </p>
 
 <p align="center">
