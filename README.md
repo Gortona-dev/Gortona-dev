@@ -120,17 +120,44 @@ My work combines back-end development, relational databases, APIs, dashboards an
 
 ## GitHub Overview
 
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Primary Focus</strong>
+      <br />
+      <br />
+      Java, REST APIs, automation and data workflows.
+    </td>
+    <td width="33%" align="center">
+      <strong>Main Profile</strong>
+      <br />
+      <br />
+      Back-end, data analysis and system integration.
+    </td>
+    <td width="33%" align="center">
+      <strong>Portfolio Direction</strong>
+      <br />
+      <br />
+      Practical projects with real operational impact.
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gortona-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Gabriel%20Ortona%27s%20GitHub%20Stats" alt="Gabriel Ortona GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gortona-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-  <br />
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gortona-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20Boot-60A5FA?style=for-the-badge" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQL%20%7C%20Power%20BI-22D3EE?style=for-the-badge" alt="Data badge" />
+  <img src="https://img.shields.io/badge/Web-React%20%7C%20APIs%20%7C%20Automation-8B5CF6?style=for-the-badge" alt="Web badge" />
 
 </div>
+
+```text
+Current direction
+> Build clean APIs
+> Automate manual workflows
+> Transform data into dashboards and decisions
+> Keep learning through real projects
+```
 
 ---
 
