@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/gabriel-ortona-8332511ab">
       <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Ortona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
     </a>
-    <a href="https://gabriel-ortona-dev.vercel.app/">
+    <a href="https://www.gabrielortona.com/">
       <img src="https://img.shields.io/badge/Portfolio-Live%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Gortona-dev&style=for-the-badge&color=22d3ee" alt="Profile views" />
@@ -185,7 +185,7 @@ Current direction
   <a href="https://www.linkedin.com/in/gabriel-ortona-8332511ab">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://gabriel-ortona-dev.vercel.app/">
+  <a href="https://www.gabrielortona.com/">
     <img src="https://img.shields.io/badge/View%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" />
   </a>
 
